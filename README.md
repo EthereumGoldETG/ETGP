@@ -19,11 +19,6 @@ Ethereum Gold Project Team;
 
 Chris Graves : Founder & CEO
 
-Amanda Frendely : Marketing Manager
-
-Miya Tran Clarke : Financial Advisor
-
-Deanna Di-Morales : Designer & Developer
 
 Juan Han Chao : Developer
 
